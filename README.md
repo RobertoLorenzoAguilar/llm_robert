@@ -20,3 +20,6 @@ response = openai.chat.completions.create(
 
 # Step 4: Print the result
 print(response.choices[0].message.content)
+
+
+![image](https://github.com/user-attachments/assets/f044842b-4c34-40b0-9f2f-b6396f0ed1ed)
